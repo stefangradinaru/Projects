@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650990967 source:c:\users\stefan\desktop\wellcode\wellcode - parcurgere mentorat\initial\probleme\siruri de caractere\ordonare dupa numarul de vocale\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
